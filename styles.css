@@ -71,7 +71,6 @@ p {
     padding: 5px;
 }
 
-
 .row::after {
     content: "";
     clear: both;
