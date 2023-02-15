@@ -12,20 +12,19 @@ body {
     flex-direction: row;
     gap: 8px;
     font-size: 15px;
-    color: #172B4d;
+    color: #172b4d;
     position: relative;
     width: 9000%;
     height: 450%;
     left: 30%;
     right: 30%;
     text-align: center;
-
 }
 
 .header {
     display: flex;
-    padding-right: 5%;
     padding-left: 5%;
+    padding-right: 5%;
     background-color: #fff;
     flex-direction: column;
     justify-content: space-between;
@@ -64,7 +63,6 @@ p {
     height: 50vh;
     margin-top: 1%;
     justify-content: center;
-
 }
 
 .column {
@@ -72,6 +70,7 @@ p {
     width: 12%;
     padding: 5px;
 }
+
 
 .row::after {
     content: "";
