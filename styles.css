@@ -82,3 +82,7 @@ p {
     clear: both;
     display: table;
 }
+
+.dropdown_icon {
+    margin-top: 20px;
+}
