@@ -19,9 +19,9 @@ nav {
     width: 85%;
     height: 100%;
     top: 44px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
+    left: 0;
+    right: 0;
+    bottom: 0;
     text-align: center;
 }
 
@@ -31,8 +31,8 @@ nav {
 
 .header {
     display: flex;
-    padding-left: 5%;
     padding-right: 5%;
+    padding-left: 5%;
     width: 90vw;
     height: 90vh;
     flex-direction: column;
@@ -62,8 +62,8 @@ h1 {
 
 p {
     display: flex;
-    flex-direction: column;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
