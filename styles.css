@@ -90,3 +90,13 @@ p {
 .dropdown_icon {
   margin-top: 20px;
 }
+
+.work_card {
+  display: grid;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  max-width: 300px;
+  height: 300px;
+  margin: auto;
+  text-align: center;
+}
