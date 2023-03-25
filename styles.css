@@ -177,14 +177,13 @@ p {
   font-size: 15px;
   width: auto;
   border: 1px solid #8993a4;
-  height: 20px;
   color: #091e42;
 }
 
 .project-card-btn {
   height: 48px;
   width: 124px;
-  background-color: #36B37f;
+  background-color: #36b37f;
   font-family: 'Inter', sans-serif;
   font-size: 17px;
   color: #fff;
@@ -203,7 +202,7 @@ p {
 .project-btn {
   height: 48px;
   width: auto;
-  background-color: #36B37f;
+  background-color: #36b37f;
   font-family: 'Inter', sans-serif;
   font-weight: bold;
   font-size: 17px;
@@ -252,7 +251,7 @@ p {
 .about-me-btn {
   height: 48px;
   width: 161px;
-  background-color: #36B37f;
+  background-color: #36b37f;
   font-family: 'Inter', sans-serif;
   font-weight: bold;
   font-size: 17px;
@@ -310,4 +309,3 @@ p {
   width: auto;
   font-size: 22px;
 }
-
