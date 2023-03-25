@@ -173,9 +173,6 @@ p {
   padding: 10px 12px 10px 12px;
   align-items: center;
   height: 40px;
-}
-
-.project-card-list {
   font-family: 'Inter', sans-serif;
   font-size: 15px;
   width: auto;
